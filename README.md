@@ -10,7 +10,7 @@ For example if 1 pound was worth 2 euros then our customers would get 12 pieces 
 
 Tips:
 - You can use any webframework or language you like
-- Use the https://openexchangerates.org/ API to get the pound to euro exchange rate in realtime
+- Use the https://openexchangerates.org/ API to get the pound to euro exchange rate in realtime, use the free version https://openexchangerates.org/signup/free
 - Include a README of how to get the project installed
 - Use git for version control and put the code on Github
 - Write tests in the ways you normally would when building a web app
